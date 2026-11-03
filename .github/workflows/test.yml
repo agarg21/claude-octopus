@@ -614,3 +614,4 @@ jobs:
             echo "Package integrity result: ${{ needs.package-integrity.result }}"
             exit 1
           fi
+# fork-only: register workflow
